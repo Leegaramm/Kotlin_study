@@ -1,4 +1,6 @@
-package Kotlin// 01. Variable -> 변수
+package Kotlin
+
+// 01. Variable -> 변수
 // -> 상자
 //      - 내 마음대로 원하는 것을 넣을 수 있는 상자 -> Variable
 //      - 한 번 넣으면 바꿀 수 없는 상자 -> Value
